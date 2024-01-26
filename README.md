@@ -1,6 +1,6 @@
 # ProjetoBuzzfeed
 
-# Visualize o projeto em https://paulovargas.github.io/buzzfeed
+# Visualize o projeto em https://paulovargas.github.io/projeto-buzzfeed-angular/
 
 npx ngh --dir=dist/projeto-buzzfeed
 
