@@ -1,6 +1,8 @@
 # ProjetoBuzzfeed
 
-# Visualize o projeto em https://paulovargas.github.io/projeto-buzzfeed/
+# Visualize o projeto em https://paulovargas.github.io/projeto-buzzfeed
+
+npx ngh --dir=dist/projeto-buzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
